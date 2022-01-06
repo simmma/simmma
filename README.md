@@ -1,6 +1,6 @@
 ### We all know the internet was made to share cat pictures
 
-![Beep Beep Hard At Work](https://github.com/simmma/simmma/blob/master/CatPics/BeepBeepHardAtWork.jpg)
+![Beep Beep Hard At Work](https://github.com/simmma/simmma/blob/main/CatPics/BeepBeepHardAtWork.jpg)
 
 
 ###### More in the CatPics folder!
