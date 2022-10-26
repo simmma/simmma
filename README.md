@@ -1,21 +1,10 @@
-### We all know the internet was made to share cat pictures
-
-![Beep Beep Hard At Work](https://github.com/simmma/simmma/blob/main/CatPics/BeepBeepHardAtWork.jpg)
-
-
-###### More in the CatPics folder!
-
-<!--
-**simmma/simmma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Hey! I'm simmma</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simmma&hide_border=true" alt="My Github Stats">
+<br>
+<br>
+<p>We all know the internet was made to share cat pictures</p>
+<img src="https://github.com/simmma/simmma/blob/main/CatPics/BeepBeepHardAtWork.jpg" alt="Beep Beep hard at work" width="30%">
+<p>More in the <a href="https://github.com/simmma/simmma/tree/main/CatPics">CatPics folder!</a></p>
+</div>
