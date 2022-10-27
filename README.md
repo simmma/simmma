@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hey! I'm simmma</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simmma&hide_border=true&layout=compact" alt="My Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simmma&count_private=true&hide_border=true&layout=compact" alt="My Github Stats">
 <br>
 <br>
 <p>We all know the internet was made to share cat pictures</p>
